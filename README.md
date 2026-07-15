@@ -1,7 +1,38 @@
-## Hi there 👋
+<h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/emmanuel-iam">IAM Engineer</a>, <a href="https://www.linkedin.com/in/emmanuel-sesay/">cybersecurity Professional</a>. 
+
+<h2>🛡️ Identity Access Management Projects:</h2>
+
+- <h2>🔐Enterprise Entra ID IAM Project:<h2>
+  - 
+  -
+  -
+- <h2>🔐Enterprise Okta Project:<h2>
+  - 
+  - 
+  - 
+  - 
+- <h2>📜Powershell:<h2>
+  - 
+  - 
+  - 
+- <h2>🐍Python:<h2>
+  - 
+  -
+  -
+  -
+<h2>📺 YouTube Videos</h2>
+- 
+- 
+- 
+- 
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
 
 <!--
-**emmanuel-iam/emmanuel-iam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
