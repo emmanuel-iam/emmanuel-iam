@@ -2,14 +2,14 @@
 
 <h2>🛡️ Identity Access Management Projects:</h2>
 
-- <h2>🟦Enterprise Microsoft Entra ID Projects:<h2>
+- <h2>🆔Microsoft Entra ID/Active Directory (IAM):<h2>
 - 
 -
-- <h2>🔵Enterprise Okta Projects:<h2>
+- <h2>🔐Okta Identity and Access Management (IAM):<h2>
 - 
-- [ Okta_dropbox_Integration ](https://github.com/emmanuel-iam/Okta_dropbox_Integration)
-- [ Okta_User_Import_Profile Management_Group Automation ](https://github.com/emmanuel-iam/okta_p1)
-- <h2>👑CyberArk Privileged Access:<h2>
+- [ Dropbox Integration,SSO,Assign to Group,Test integration ](https://github.com/emmanuel-iam/Okta_dropbox_Integration)
+- [ User Import,Profile Management,Group Automation ](https://github.com/emmanuel-iam/okta_p1)
+- <h2>👑CyberArk Privileged Access Management (PAM):<h2>
 -
 -
 - <h2>📜Powershell:<h2>
