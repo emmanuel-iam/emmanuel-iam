@@ -1,6 +1,6 @@
-<h1>Hi, I'm Emmanuel! <br/><a href="https://github.com/emmanuel-iam">IAM Engineer</a>, <a href="https://www.linkedin.com/in/emmanuel-sesay/">cybersecurity Professional</a>. 
+<h1>Hi, I'm Emmanuel! <br/><a href="https://www.linkedin.com/in/emmanuel-sesay/">IAM Engineer</a>, <a href="https://github.com/emmanuel-iam/Enterprise-EntraID-Portfolio">Security Professional</a>. 
 
-<h2>🛡️ Identity Access Management Projects:</h2>
+<h1>🛡️Identity Access Management Portfolio:</h1>
 
 - <h2>🆔Microsoft Entra ID/Active Directory (IAM):<h2>
 - [ Enterprise-EntraID-Project ](https://github.com/emmanuel-iam/Enterprise-EntraID-Portfolio)
