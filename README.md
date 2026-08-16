@@ -2,29 +2,20 @@
 
 <h1>🛡️IAM/Azure Cloud Portfolio:</h1>
 
-- <h2>☁️Azure Cloud:<h2>
-- [ Hosting Static Account ]()
+ <h2>☁️Azure Cloud:<h2>
+
+   - [ Hosting Static Account ]()
   
-- <h2>🆔Microsoft Entra ID/Active Directory (IAM):<h2>
-- [ Enterprise-EntraID-Project ](https://github.com/emmanuel-iam/Enterprise-EntraID-Portfolio)
+ <h2>🆔Microsoft Entra ID/Active Directory (IAM):<h2>
 
-- <h2>🔐Okta Identity and Access Management (IAM):<h2>
-- [ Dropbox Integration,SSO,Assign to Group,Test integration ](https://github.com/emmanuel-iam/Okta_dropbox_Integration)
-- [ User Import,Profile Management,Group Automation ](https://github.com/emmanuel-iam/okta_p1)
+   - [ Enterprise-EntraID-Project ](https://github.com/emmanuel-iam/Enterprise-EntraID-Portfolio)
 
-- <h2>👑CyberArk Privileged Access Management (PAM):<h2>
--
--
-- <h2>📜Powershell:<h2>
-- 
-- 
-- <h2>🐍Python:<h2>
-- 
--
-<h2>📺 YouTube Videos</h2>
+ <h2>🔐Okta Identity and Access Management (IAM):<h2>
 
+   - [ Dropbox Integration,SSO,Assign to Group,Test integration ](https://github.com/emmanuel-iam/Okta_dropbox_Integration)
+   - [ User Import,Profile Management,Group Automation ](https://github.com/emmanuel-iam/okta_p1)
 
-<h2> 🤳 Connect with me:</h2>
+ <h2> 🤳 Connect with me:</h2>
 
 
 
