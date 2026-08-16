@@ -4,7 +4,7 @@
 
  <h2>☁️Azure Cloud:<h2>
 
-   - [ Hosting Static Account ]()
+   - [ Hosting Static Account ](https://github.com/emmanuel-iam/Static-Website)
   
  <h2>🆔Microsoft Entra ID:<h2>
 
