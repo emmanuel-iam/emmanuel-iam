@@ -5,7 +5,7 @@
  <h2>☁️Azure Cloud:<h2>
    
    - [AD-on-Windows-Server-VM](https://github.com/emmanuel-iam/AD-on-Windows-Server-VM/blob/main/README.md)
-   - [ Hosting Static Account ](https://github.com/emmanuel-iam/Static-Website)
+   - [ Hosting Static Website ](https://github.com/emmanuel-iam/Static-Website)
   
  <h2>🆔Microsoft Entra ID:<h2>
 
