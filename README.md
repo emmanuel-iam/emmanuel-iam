@@ -5,7 +5,7 @@
  <h2>☁️Azure Cloud:<h2>
    
    - [AD-DS-on-Windows-Server-VM](https://github.com/emmanuel-iam/AD-on-Windows-Server-VM/blob/main/README.md)
-   - [Splunk_SIEM_Log_Analysis](https://github.com/emmanuel-iam/Splunk-SIEM-Windows-Event-Log-Monitoring/tree/main)
+   - [Splunk-SIEM-Windows-Event-Log-Monitoring](https://github.com/emmanuel-iam/Splunk-SIEM-Windows-Event-Log-Monitoring/tree/main)
    - [ServiceNow_ITSM](https://github.com/emmanuel-iam/ServiceNow_ITSM)
    - [Wireshark-Network-Analysis](https://github.com/emmanuel-iam/Wireshark-Network-Analysis)
    - [ Hosting Static Website ](https://github.com/emmanuel-iam/Static-Website)
