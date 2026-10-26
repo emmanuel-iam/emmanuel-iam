@@ -6,6 +6,8 @@
    
    - [AD-DS-on-Windows-Server-VM](https://github.com/emmanuel-iam/AD-on-Windows-Server-VM/blob/main/README.md)
    - [Splunk-SIEM-Windows-Event-Log-Monitoring](https://github.com/emmanuel-iam/Splunk-SIEM-Windows-Event-Log-Monitoring/tree/main)
+   - [Nessus-Vulnerability-Scanning]()
+   - [Terraform-Deployment]()
    - [ServiceNow_ITSM](https://github.com/emmanuel-iam/ServiceNow_ITSM)
    - [Wireshark-Network-Analysis](https://github.com/emmanuel-iam/Wireshark-Network-Analysis)
    - [ Hosting Static Website ](https://github.com/emmanuel-iam/Static-Website)
