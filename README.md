@@ -10,6 +10,7 @@
    - [Terraform-Deployment]()
    - [ServiceNow_ITSM](https://github.com/emmanuel-iam/ServiceNow_ITSM)
    - [Wireshark-Network-Analysis](https://github.com/emmanuel-iam/Wireshark-Network-Analysis)
+   - [VS Code]()
    - [ Hosting Static Website ](https://github.com/emmanuel-iam/Static-Website)
   
  <h2>🆔Microsoft Entra ID:<h2>
